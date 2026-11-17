@@ -1,17 +1,17 @@
 Hi 👋 My name is Ange Nishimwe
 ==============================
 
-Backend Developer | Data Analyst | AI Engineer
+Data Analyst
 ----------------------------------------------
 
-Welcome to my GitHub profile! I’m passionate about creating innovative solutions through technology, specializing in backend development, data science, and artificial intelligence.
+Welcome to my GitHub profile! I’m passionate about creating innovative solutions through technology, specializing in data science, and artificial intelligence.
 
 * 🌍  I'm based in Kigali
 * 🖥️  See my portfolio at [MyPortfolio](http://www.linkedin.com/in/ange-nishimwe-2a6568223/)
 * ✉️  You can contact me at [nishimweangej@gmail.com](mailto:nishimweangej@gmail.com)
-* 🧠  I'm learning Django
+* 🧠  I'm learning Python
 * 🤝  I'm open to collaborating on Projects
-* ⚡  I Am RMIO
+* ⚡  I Am Registered Medical Imaging Officer
 
 ### Skills
 
