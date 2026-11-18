@@ -13,7 +13,7 @@ of care. I'm learning to use data to make those decisions better.
 
 ## Skills
 - **Clinical:** General radiography, ultrasound, CT, MRI
-- **Data:** Python (pandas, matplotlib, seaborn), Jupyter, Excel
+- **Data:** Python, Excel
 - **Interests:** Health operations, workforce planning, healthcare analytics
 
 ## Get in touch
